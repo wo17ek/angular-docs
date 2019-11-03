@@ -1,1 +1,1 @@
-Workspace for angular apps
+Workspace for angular apps from docs
